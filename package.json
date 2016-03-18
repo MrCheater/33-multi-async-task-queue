@@ -1,0 +1,21 @@
+{
+    "name": "33-multi-async-task-queue",
+    "version": "1.0.0",
+    "description": "Multiple Async Task Queue",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "async",
+        "task",
+        "queue"
+    ],
+    "author": "Mr.Cheater <mister.cheater@list.ru>",
+    "license": "MIT",
+    "repository" : {
+        "type" : "git",
+        "url" : "git+https://github.com/MrCheater/33-multi-async-task-queue.git"
+    },
+    "homepage": "https://github.com/MrCheater/33-multi-async-task-queue"
+}
